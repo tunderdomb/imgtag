@@ -1,0 +1,19 @@
+{
+  "name": "imgtag",
+  "version": "0.0.1",
+  "description": "Insert image dimensions into html img tags",
+  "main": "imgtag.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nagy Zoltan <tunderdomb@gmail.com> (tunderdomb)",
+  "license": "MIT",
+  "devDependencies": {
+    "grunt": "~0.4.4",
+    "imagesize": "~1.0.0",
+    "async": "~0.2.10"
+  }
+}
